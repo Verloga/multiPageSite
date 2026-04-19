@@ -1,0 +1,19 @@
+article{
+  background-color: aquamarine;
+}
+
+.article-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.article-content img {
+  width: 160px;
+  height: auto;
+  display: block;
+}
+
+.article-content p {
+  margin: 0;
+}
